@@ -1,0 +1,11 @@
+# FFmpeg binary is too large for git (>100 MB). Ship it via GitHub Releases or let the launchers download it.
+ffmpeg/bin/*.exe
+
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/

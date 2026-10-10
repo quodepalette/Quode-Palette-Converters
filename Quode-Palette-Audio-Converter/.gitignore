@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.coverage
+.pytest_cache/
+
+# Local FFmpeg copy (too large for git)
+ffmpeg/bin/*.exe
