@@ -2,6 +2,18 @@
 
 A small collection of command-line media converters with Windows `.bat` launchers. Each project has its own source code and documentation.
 
+<p align="center">
+  <img src="docs/audio.png" alt=Quode Palette Audio Converter" width="100%">
+</p>
+
+<p align="center">
+  <img src="docs/video.png" alt="Quode Palette Video Converter" width="100%">
+</p>
+
+<p align="center">
+  <img src="docs/image.png" alt="Quode Palette Image Converter" width="100%">
+</p>
+
 ## Projects
 
 - `Quode-Palette-Audio-Converter`: convert common audio formats with FFmpeg.
