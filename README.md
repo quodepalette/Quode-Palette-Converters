@@ -3,7 +3,7 @@
 A small collection of command-line media converters with Windows `.bat` launchers. Each project has its own source code and documentation.
 
 <p align="center">
-  <img src="docs/audio.png" alt=Quode Palette Audio Converter" width="100%">
+  <img src="docs/audio.png" alt="Quode Palette Audio Converter" width="100%">
 </p>
 
 <p align="center">
