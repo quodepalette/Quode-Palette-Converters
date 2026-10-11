@@ -27,3 +27,9 @@ Open the relevant project folder and double-click its `.bat` launcher. All tools
 The bundled FFmpeg is a Windows 64-bit GPL build from https://github.com/BtbN/FFmpeg-Builds; see `ffmpeg/LICENSE.txt`.
 
 Each project README contains its own usage and requirements.
+
+## License
+
+Released under the [PolyForm Noncommercial License 1.0.0](LICENSE). You are free to use, modify and share it for personal, educational and other noncommercial purposes. For commercial use, please get in touch.
+[Email Us](mailto:hello@quodepalette.com)
+
